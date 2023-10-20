@@ -1,0 +1,15 @@
+@font-face {font-family:"Comic Neue";font-weight:normal;src:local(ComicNeue-Regular),local("Comic Neue Regular"),url(https://fonts.bunny.net/comic-neue/files/comic-neue-latin-400-normal.woff2) format('woff2'),url(https://fonts.bunny.net/comic-neue/files/comic-neue-latin-400-normal.woff) format('woff');}
+@font-face {font-family:"Comic Neue";font-weight:bold;src:local(ComicNeue-Bold),local("Comic Neue Bold"),url(https://fonts.bunny.net/comic-neue/files/comic-neue-latin-700-normal.woff2) format('woff2'),url(https://fonts.bunny.net/comic-neue/files/comic-neue-latin-700-normal.woff) format('woff');}
+body {
+	background-color: #ffd8d8;
+	color: #000;
+	font-family: "Comic Neue", sans-serif;
+	font-size: 12pt;
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6, a:link, a:visited {color:#303;font-weight:bold}
+a {text-decoration:underline}
+a:hover, a:focus {background-color:#303;color:#ffd8d8}
+pre, code {font-family: monospace; font-size: 10pt;}
+footer {font-size: 9pt; text-align: right;}
+textarea, input {vertical-align: text-top; font-family: sans-serif;}
