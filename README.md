@@ -1,7 +1,7 @@
 # L_Webring
 A [Webring](https://github.com/IKaramitsos/L_Webring) built with [Jekyll](https://jekyllrb.com/) hosted using [Netlify](https://www.netlify.com/)'s [static routing redirects](https://docs.netlify.com/routing/redirects/).
 
-This webring is inspired from a [tutorial](https://mincerafter42.github.io/tutorial/webring/) I found online. The ring welcomes hand-crafted wikis and portfolios.
+This webring is inspired by a [tutorial](https://mincerafter42.github.io/tutorial/webring/) I found online. The ring welcomes hand-crafted wikis and portfolios.
 
 # Example
 
